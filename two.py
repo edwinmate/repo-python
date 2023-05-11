@@ -17,3 +17,9 @@ print(my_lista)
 
 my_lista.append('java')
 print(my_lista)
+
+my_lista.remove('gatos')
+print(my_lista)
+
+print(my_lista[2])
+print(my_lista[4])
