@@ -36,3 +36,11 @@ my_lista.insert(0,'mango')
 my_lista.insert(0,'hola')
 
 print(my_lista)
+
+#diccionarios
+
+my_dic={'saludo':'hola','despedida':'chao','nombre':'edwin','apellido':'herrera'}
+print(my_dic)
+my_dic['saludo']='buenos dias'
+my_dic['fruta']='manzana'
+print(my_dic)
