@@ -42,3 +42,12 @@ apellido_dos=('herrera')
 edad=20
 
 print (f"tu nombre es : {nombre} {apellido} {apellido_dos} y tu edad es {edad}")
+
+
+lista=['hola','manzana','perro','pera','zanahoria']
+
+lista.insert(2,'autor')
+print (lista)
+
+lista.append('gato')
+print(lista)
