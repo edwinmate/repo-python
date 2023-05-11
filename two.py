@@ -23,3 +23,16 @@ print(my_lista)
 
 print(my_lista[2])
 print(my_lista[4])
+print (my_lista[0])
+
+my_lista.append('mango')
+my_lista.append('manzana')
+my_lista.append('papa')
+print (my_lista)
+
+my_lista.insert(0,'chao')
+my_lista.insert(0,'platano')
+my_lista.insert(0,'mango')
+my_lista.insert(0,'hola')
+
+print(my_lista)
