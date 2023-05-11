@@ -19,4 +19,8 @@ for my_element in my_tupla:
     #print (my_element)
     if not my_element == 'hola':
         print (my_element)
-        
+
+numero=0
+while (numero <= 10):
+    print(numero)
+    numero +=1
