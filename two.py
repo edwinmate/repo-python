@@ -8,3 +8,12 @@ print(my_idex)
 
 my_count=my_tupla.count(10)
 print(my_count)
+
+
+my_lista=['hola','animales','gatos','python']
+
+my_lista.insert(1,'mateo')
+print(my_lista)
+
+my_lista.append('java')
+print(my_lista)
