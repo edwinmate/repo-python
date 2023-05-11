@@ -24,3 +24,16 @@ numero=0
 while (numero <= 10):
     print(numero)
     numero +=1
+
+nume=0
+while (nume <= 12):
+    if nume % 2 == 0:
+        print(nume,'el numero es par')
+    else:
+        print(nume,'el numero es impar')
+    numero +=1
+
+    break
+
+
+
