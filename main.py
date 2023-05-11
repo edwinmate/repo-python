@@ -31,9 +31,14 @@ while (nume <= 12):
         print(nume,'el numero es par')
     else:
         print(nume,'el numero es impar')
-    numero +=1
+    nume +=1
 
     break
 
 
+nombre=('mateo')
+apellido=('montoya')
+apellido_dos=('herrera')
+edad=20
 
+print (f"tu nombre es : {nombre} {apellido} {apellido_dos} y tu edad es {edad}")
