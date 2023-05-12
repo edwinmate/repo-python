@@ -23,4 +23,17 @@ def suma(x,y,a):
 result=suma(10,20,10)
 print (result)
 
+#sumar los elementos de una lista
+
+def sumar (lista):
+    summ=0
+    for numero in lista:
+        summ+=numero
+    return(summ)
+
+list =[1,2,3,2,2,5,5,1]
+
+resultados=sumar(list)
+print(resultados)
+
 
