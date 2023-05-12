@@ -14,3 +14,13 @@ resultado= conversor (20,'f')
 print('tu resultado es: {}'.format(resultado))
 
 
+#Ejercicio de suma de elementos:
+
+def suma(x,y,a):
+    c=(x+y+a)
+    return (c)
+
+result=suma(10,20,10)
+print (result)
+
+
